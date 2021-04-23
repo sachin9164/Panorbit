@@ -40,8 +40,7 @@ export default function AlignItemsList() {
   return (
     <div
       style={{
-        backgroundImage:
-          "url(https://files.slack.com/files-pri/T03NW4KDZ-F01UT74DHB7/back.png)"
+        backgroundImage: "url(https://i.ibb.co/LtqWQfw/back.png)"
       }}
     >
       <div className="container">
