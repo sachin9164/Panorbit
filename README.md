@@ -1,3 +1,2 @@
 # Panorbit
-
-Social media app with chat functionality
+Created with CodeSandbox
